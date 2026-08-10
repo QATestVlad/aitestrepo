@@ -1,0 +1,1 @@
+TC3: AI commit without Interface field - No Data expected
