@@ -1,0 +1,1 @@
+TC1: AI commit with known Interface (GitHub Copilot) + linked prompter
