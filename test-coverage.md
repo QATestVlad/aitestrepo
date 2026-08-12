@@ -6,3 +6,4 @@ A6 test
 A7 test
 A5 test
 A3 test
+G3 human
