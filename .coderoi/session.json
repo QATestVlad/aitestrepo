@@ -1,0 +1,15 @@
+{
+  "sessionId": "sess_mu2oz6fkz742e0az",
+  "harnessSessionId": "",
+  "worktreePath": "/Users/crunch/Documents/CodeROI/aitestrepo",
+  "anchorAt": "2026-09-15T13:12:44.618Z",
+  "lastActivityAt": "2026-09-15T13:12:44.618Z",
+  "commits": [
+    {
+      "ref": "emit@2026-09-15T13:12:44.618Z",
+      "consumedMins": 30,
+      "emittedAt": "2026-09-15T13:12:44.618Z",
+      "reportedAggregateMins": 30
+    }
+  ]
+}
