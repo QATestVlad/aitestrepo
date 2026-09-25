@@ -1,0 +1,5 @@
+SEAL-4262 retest — test case #1 (2026-09-25)
+
+Scenario: Human Prompt Time = 0m remediation, AIElapsedTime=0m via CLI.
+Expected: remediation save with HumanTime=0m returns 200 OK; 0m is accepted
+and stored as a recorded value (not treated as empty); aiHumanTimeMins = 0.
